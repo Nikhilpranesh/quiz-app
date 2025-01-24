@@ -1,0 +1,32 @@
+[
+  {
+    "questionText": "Which element has the chemical symbol 'Fe'?",
+    "options": ["Gold", "Silver", "Iron", "Copper"],
+    "correctAnswer": 2,
+    "hint": "This metal is known for its strength and magnetic properties"
+  },
+  {
+    "questionText": "What is the capital of Japan?",
+    "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+    "correctAnswer": 2,
+    "hint": "This city hosted the 2020 Olympics"
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Da Vinci", "Picasso", "Rembrandt"],
+    "correctAnswer": 1,
+    "hint": "This Italian artist was also an inventor"
+  },
+  {
+    "questionText": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswer": 2,
+    "hint": "Think of multiplication tables"
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": 1,
+    "hint": "Its color comes from iron oxide on its surface"
+  }
+]

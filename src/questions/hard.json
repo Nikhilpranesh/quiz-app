@@ -1,0 +1,32 @@
+[
+  {
+    "questionText": "What is the capital of Burkina Faso?",
+    "options": ["Bamako", "Ouagadougou", "Niamey", "Dakar"],
+    "correctAnswer": 1,
+    "hint": "It's one of the longest capital city names"
+  },
+  {
+    "questionText": "In quantum physics, what is the name of the principle that states you cannot simultaneously know the exact position and momentum of a particle?",
+    "options": ["Relativity Principle", "Heisenberg Uncertainty Principle", "Pauli Exclusion Principle", "Wave-Particle Duality"],
+    "correctAnswer": 1,
+    "hint": "Named after a famous German physicist"
+  },
+  {
+    "questionText": "What is the most abundant element in the universe by mass?",
+    "options": ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+    "correctAnswer": 1,
+    "hint": "It's the lightest element"
+  },
+  {
+    "questionText": "Which mathematician is credited with the first proof of the Pythagorean theorem in Chinese mathematics?",
+    "options": ["Liu Hui", "Zu Chongzhi", "Li Ye", "Yang Hui"],
+    "correctAnswer": 0,
+    "hint": "Lived during the Three Kingdoms period"
+  },
+  {
+    "questionText": "What is the half-life of Carbon-14?",
+    "options": ["4,730 years", "5,730 years", "6,730 years", "7,730 years"],
+    "correctAnswer": 1,
+    "hint": "This is why it's useful for dating organic materials"
+  }
+]

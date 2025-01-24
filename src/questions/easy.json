@@ -1,0 +1,32 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswer": 2,
+    "hint": "This city is known as the City of Light"
+  },
+  {
+    "questionText": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mars", "Mercury", "Earth"],
+    "correctAnswer": 2,
+    "hint": "It's the smallest planet in our solar system"
+  },
+  {
+    "questionText": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": 1,
+    "hint": "Count on your fingers"
+  },
+  {
+    "questionText": "What color is a banana?",
+    "options": ["Red", "Blue", "Yellow", "Green"],
+    "correctAnswer": 2,
+    "hint": "It's a bright, sunny color"
+  },
+  {
+    "questionText": "How many days are in a week?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2,
+    "hint": "Think about the weekend plus weekdays"
+  }
+]
